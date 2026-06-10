@@ -154,6 +154,7 @@ Selected recognition and funding information. Grant amounts are intentionally om
 | Category | Link | Description |
 |---|---|---|
 | **Grants and funded research** | [U.S. Department of Energy](https://pamspublic.science.energy.gov/webPAMSExternal/Interface/Common/ViewPublicAbstract.aspx?rv=b339182d-37bf-421b-8c88-ec151fad87f1&rtc=24) | DE-SC0026415: Quantum-classical hybrid simulations for nuclear physics |
+| **Grants and funded research** | [NSF](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2328774) | OSI-2328774: Expand QUantum Information Programs at UMass Boston |
 | **Grants and funded research** | [Research Corporation for Science Advancement](https://pamspublic.science.energy.gov/webPAMSExternal/Interface/Common/ViewPublicAbstract.aspx?rv=b339182d-37bf-421b-8c88-ec151fad87f1&rtc=24) | SA-QMI-2025-090: Quantum Entanglement of Skyrmion-Antiskyrmion Pairs |
 | **Honors & Awards** | [Research Corporation for Science Advancement](https://rescorp.org/2026/01/7-teams-win-funding-in-1st-year-of-scialog-quantum-matter-and-information/) | 2025 Scialog Collaborative Innovation Award |
 | **Honors & Awards** | [Research Corporation for Science Advancement](https://rescorp.org/scialog/quantum-matter-and-information/) | Scialog Fellow: Quantum Matter and Information |
