@@ -8,8 +8,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-IKEDAKAZUKI-181717?style=flat-square&logo=github)](https://github.com/IKEDAKAZUKI)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kazuki%20Ikeda-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kazuki-ikeda-7988531a0/)
 [![arXiv](https://img.shields.io/badge/arXiv-Kazuki%20Ikeda-b31b1b?style=flat-square)](https://arxiv.org/search/?query=Kazuki+Ikeda&searchtype=author)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Kazuki%20Ikeda-4285F4?style=flat-square)](https://scholar.google.com/scholar?q=Kazuki+Ikeda+quantum)
-
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Kazuki%20Ikeda-4285F4?style=flat-square)](https://scholar.google.com/citations?hl=en&user=MbHcmsEAAAAJ)
 <br>
 
 **Assistant Professor · University of Massachusetts Boston**  
