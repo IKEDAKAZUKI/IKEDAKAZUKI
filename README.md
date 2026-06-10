@@ -10,6 +10,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-Kazuki%20Ikeda-b31b1b?style=flat-square)](https://arxiv.org/search/?query=Kazuki+Ikeda&searchtype=author)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Kazuki%20Ikeda-4285F4?style=flat-square)](https://scholar.google.com/citations?hl=en&user=MbHcmsEAAAAJ)
 [![SlideShare](https://img.shields.io/badge/SlideShare-Kazuki%20Ikeda-0077B5?style=flat-square)](https://www.slideshare.net/kazukiikeda4/slideshows)
+[![Media Highlights](https://img.shields.io/badge/Media-Highlights-FF6F00?style=flat-square)](#media-highlights)
 <br>
 
 **Assistant Professor · University of Massachusetts Boston**  
@@ -24,6 +25,8 @@
 I am a quantum theorist working at the interface of **quantum information science**, **quantum computation**, **quantum field theory**, **condensed matter physics**, and **quantum mathematics**.
 
 My research develops theoretical frameworks and computational tools for understanding quantum systems through the lenses of geometry, topology, entanglement, real-time dynamics, quantum algorithms, and quantum annealing. I also build open-source research code and lecture notebooks for quantum simulation, Qiskit, lattice gauge theory, quantum optimization, and quantum information science.
+
+Selected media highlights, outreach articles, and public-facing research features are collected below.
 
 Official website: **[kazukiikeda.studio.site](https://kazukiikeda.studio.site/)**
 
@@ -117,6 +120,24 @@ Code: [Hofstadter-butterfly-in-AdS3](https://github.com/IKEDAKAZUKI/Hofstadter-b
 
 ---
 
+## Media highlights
+
+Selected public-facing articles, institutional highlights, and science-media coverage connected to my research.
+
+| Theme | Outlet | Highlight |
+|---|---|---|
+| **Langlands program in physics** | [Scientific American](https://www.scientificamerican.com/article/the-evolving-quest-for-a-grand-unified-theory-of-mathematics/) | The evolving quest for a grand unified theory of mathematics; Langlands program, geometric Langlands, condensed-matter physics, and quantum computation |
+| **Langlands program in physics** | [AIP Scilight](https://pubs.aip.org/aip/sci/article/2018/26/260001/358794/Hofstadter-s-butterfly-confirms-a-new-tie-between) | Hofstadter’s butterfly and a new tie between condensed matter physics, number theory, and the Langlands program |
+| **Quantum simulation** | [DOE Office of Science](https://www.energy.gov/science/np/articles/revealed-quantum-entanglement-among-quarks) | Revealed: quantum entanglement among quarks; quantum simulations of jet production and vacuum modification |
+| **Quantum simulation** | [Brookhaven National Laboratory](https://www.bnl.gov/newsroom/news.php?a=221731) | Cracking the quantum code: simulations track entangled quarks in high-energy particle collisions |
+| **Quantum energy teleportation** | [Quanta Magazine](https://www.quantamagazine.org/physicists-use-quantum-mechanics-to-pull-energy-out-of-nothing-20230222/) | Physicists use quantum mechanics to pull energy out of nothing; experimental demonstrations of quantum energy teleportation |
+| **Quantum energy teleportation** | [Quanta Magazine — The Year in Physics](https://www.quantamagazine.org/the-biggest-discoveries-in-physics-in-2023-20231221/) | 2023 physics year-in-review coverage featuring teleported quantum energy in the lab |
+| **Quantum energy teleportation** | [WIRED](https://www.wired.com/story/the-quest-to-use-quantum-mechanics-to-pull-energy-out-of-nothing/) | The quest to use quantum mechanics to pull energy out of nothing; IBM Quantum demonstration and quantum energy teleportation |
+| **Quantum energy teleportation** | [NIKKEI](https://www.nikkei.com/article/DGXZQOUC08CUH0Y4A200C2000000/) | Japanese media coverage of quantum energy teleportation and quantum-information research |
+| **Research profile** | [University of Saskatchewan Green & White](https://greenandwhite.usask.ca/articles/2025/unwillingness-to-accept-any-limitations-as-to-what-is-possible.php) | Profile article on quantum science, quanTA, quantum innovation, and research career development |
+
+---
+
 ## Open-source focus
 
 I use GitHub to share reproducible research code, lecture notebooks, and computational tools for:
@@ -129,7 +150,8 @@ I use GitHub to share reproducible research code, lecture notebooks, and computa
 - entanglement diagnostics and geometric obstructions,
 - quantum algorithms for physics,
 - educational material for students entering quantum science,
-- presentation slides and visual lecture materials on [SlideShare](https://www.slideshare.net/kazukiikeda4/slideshows).
+- presentation slides and visual lecture materials on [SlideShare](https://www.slideshare.net/kazukiikeda4/slideshows),
+- media highlights and public-facing research communication on quantum science.
 
 ---
 
@@ -168,7 +190,11 @@ quantum energy teleportation, IBM Quantum, Qiskit, entanglement geometry, Severi
 Azumaya algebras, condensed matter physics, topological quartets, Hofstadter butterfly, AdS3 black holes,
 BTZ black holes, quantum games, quantum economics, quantum annealing, D-Wave, D-Wave 2000Q,
 nurse scheduling problem, QUBO, Ising model, reverse annealing, combinatorial optimization,
-healthcare scheduling, SlideShare, Kazuki Ikeda SlideShare, quantum physics slides,
-quantum computation slides, quantum information science lectures, quantum simulation lecture slides,
-University of Massachusetts Boston, UMass Boston, Stony Brook University.
+healthcare scheduling, Langlands program in physics, geometric Langlands, Scientific American,
+AIP Scilight, quantum entanglement among quarks, DOE Office of Science, Brookhaven National Laboratory,
+BNL News, jet production quantum simulation, vacuum modification, Quanta Magazine, WIRED, NIKKEI,
+quantum energy teleportation media coverage, quantum vacuum energy, energy extraction from vacuum,
+SlideShare, Kazuki Ikeda SlideShare, quantum physics slides, quantum computation slides,
+quantum information science lectures, quantum simulation lecture slides, University of Saskatchewan,
+quanTA, University of Massachusetts Boston, UMass Boston, Stony Brook University.
 -->
