@@ -66,6 +66,11 @@ Official website: **[kazukiikeda.studio.site](https://kazukiikeda.studio.site/)*
 DOI: [10.1103/PhysRevApplied.20.024051](https://doi.org/10.1103/PhysRevApplied.20.024051) · arXiv: [2301.02666](https://arxiv.org/abs/2301.02666)  
 Code: [Quantum-Energy-Teleportation](https://github.com/IKEDAKAZUKI/Quantum-Energy-Teleportation)
 
+### Geometric Langlands and Quantum Information
+**Quantum entanglement, stratified spaces, and topological matter: towards entanglement-sensitive Langlands data**  
+*K. Ikeda and S. Rayan*, Reports on Progress in Physics **89**, 067601 (2026)  
+DOI: [10.1088/1361-6633/ae73b6](https://iopscience.iop.org/article/10.1088/1361-6633/ae73b6/meta) 
+
 ### Real-time quantum simulation and Schwinger model
 
 **Real-Time Nonperturbative Dynamics of Jet Production in Schwinger Model: Quantum Entanglement and Vacuum Modification**  
