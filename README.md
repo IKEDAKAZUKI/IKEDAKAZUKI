@@ -23,7 +23,7 @@
 
 I am a quantum theorist working at the interface of **quantum information science**, **quantum computation**, **quantum field theory**, **condensed matter physics**, and **quantum mathematics**.
 
-My research develops theoretical frameworks and computational tools for understanding quantum systems through the lenses of geometry, topology, entanglement, real-time dynamics, and quantum algorithms. I also build open-source research code and lecture notebooks for quantum simulation, Qiskit, lattice gauge theory, and quantum information science.
+My research develops theoretical frameworks and computational tools for understanding quantum systems through the lenses of geometry, topology, entanglement, real-time dynamics, quantum algorithms, and quantum annealing. I also build open-source research code and lecture notebooks for quantum simulation, Qiskit, lattice gauge theory, quantum optimization, and quantum information science.
 
 Official website: **[kazukiikeda.studio.site](https://kazukiikeda.studio.site/)**
 
@@ -34,6 +34,7 @@ Official website: **[kazukiikeda.studio.site](https://kazukiikeda.studio.site/)*
 | Area | Keywords |
 |---|---|
 | **Quantum information science** | quantum computation, quantum circuits, Qiskit, IBM Quantum, quantum teleportation |
+| **Quantum annealing and optimization** | D-Wave, nurse scheduling problem, QUBO, Ising models, reverse annealing, combinatorial optimization |
 | **Quantum simulation** | lattice gauge theory, nuclear theory, particle theory, Schwinger model, real-time dynamics, quench dynamics, adiabatic state preparation |
 | **Quantum field theory** | Chern-Simons fluctuations, hadronic correlators, Green’s functions, Hadamard tests |
 | **Quantum energy teleportation** | superconducting quantum hardware, LOCC, energy extraction, error mitigation |
@@ -54,10 +55,18 @@ Official website: **[kazukiikeda.studio.site](https://kazukiikeda.studio.site/)*
 | [**Entanglement Obstruction in Condensed Matter**](https://github.com/IKEDAKAZUKI/Entanglement-Obstruction-in-Condensed-Matter) | Numerical and Qiskit tomography workflows for loop-dependent entangling holonomies in localized topological quartets | entanglement geometry, condensed matter, holonomy |
 | [**Hofstadter Butterfly in AdS<sub>3</sub>**](https://github.com/IKEDAKAZUKI/Hofstadter-butterfly-in-AdS3) | Reproducibility code for the BTZ-derived curved Harper model and Hofstadter spectra in AdS<sub>3</sub> black-hole geometry | AdS/CMT, BTZ black holes, Hofstadter butterfly |
 | [**QIS Lectures**](https://github.com/IKEDAKAZUKI/QIS-Lectures) | Lecture notebooks for quantum information science, linear algebra, quantum gates, measurements, and Bell states | teaching, quantum information, Qiskit |
+| [**D-Wave Nurse Scheduling Demo**](https://github.com/dwave-examples/nurse-scheduling) | Official D-Wave example demonstrating the nurse-scheduling QUBO model developed by Ikeda, Nakamura, and Humble | D-Wave, quantum annealing, QUBO, healthcare optimization |
 
 ---
 
 ## Selected publications and projects
+
+### Quantum annealing and combinatorial optimization
+
+**Application of Quantum Annealing to Nurse Scheduling Problem**  
+*K. Ikeda, Y. Nakamura, T. S. Humble*, Scientific Reports **9**, 12837 (2019)  
+DOI: [10.1038/s41598-019-49172-3](https://doi.org/10.1038/s41598-019-49172-3)  
+Demo: [D-Wave official nurse-scheduling example](https://github.com/dwave-examples/nurse-scheduling)
 
 ### Quantum energy teleportation
 
@@ -114,11 +123,12 @@ I use GitHub to share reproducible research code, lecture notebooks, and computa
 
 - quantum computation and quantum information science,
 - Qiskit and IBM Quantum demonstrations,
+- D-Wave quantum annealing, QUBO modeling, and scheduling optimization,
 - quantum simulation of lattice gauge theories,
 - real-time dynamics in quantum field theory,
 - entanglement diagnostics and geometric obstructions,
 - quantum algorithms for physics,
-- educational material for students entering quantum science.
+- educational material for students entering quantum science,
 - presentation slides and visual lecture materials on [SlideShare](https://www.slideshare.net/kazukiikeda4/slideshows).
 
 ---
@@ -141,6 +151,7 @@ I use GitHub to share reproducible research code, lecture notebooks, and computa
 - LinkedIn: [Kazuki Ikeda](https://www.linkedin.com/in/kazuki-ikeda-7988531a0/)
 - arXiv author search: [Kazuki Ikeda](https://arxiv.org/search/?query=Kazuki+Ikeda&searchtype=author)
 - SlideShare: [slideshare.net/kazukiikeda4/slideshows](https://www.slideshare.net/kazukiikeda4/slideshows)
+
 ---
 
 <div align="center">
@@ -155,6 +166,9 @@ Kazuki Ikeda, IKEDAKAZUKI, quantum theorist, quantum mathematics, quantum inform
 quantum computation, quantum simulation, quantum field theory, lattice gauge theory, Schwinger model,
 quantum energy teleportation, IBM Quantum, Qiskit, entanglement geometry, Severi-Brauer schemes,
 Azumaya algebras, condensed matter physics, topological quartets, Hofstadter butterfly, AdS3 black holes,
-BTZ black holes, quantum games, quantum economics, University of Massachusetts Boston, UMass Boston,
-Stony Brook University.
+BTZ black holes, quantum games, quantum economics, quantum annealing, D-Wave, D-Wave 2000Q,
+nurse scheduling problem, QUBO, Ising model, reverse annealing, combinatorial optimization,
+healthcare scheduling, SlideShare, Kazuki Ikeda SlideShare, quantum physics slides,
+quantum computation slides, quantum information science lectures, quantum simulation lecture slides,
+University of Massachusetts Boston, UMass Boston, Stony Brook University.
 -->
