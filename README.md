@@ -1,6 +1,6 @@
 <div align="center">
 
-# Kazuki Ikeda
+# Kazuki Ikeda (池田一毅)
 
 ### Quantum Theorist · Quantum Mathematics · Quantum Information Science
 
