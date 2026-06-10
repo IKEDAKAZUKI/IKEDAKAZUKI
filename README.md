@@ -153,8 +153,10 @@ Selected recognition and funding information. Grant amounts are intentionally om
 
 | Category | Link | Description |
 |---|---|---|
-| **Grants and funded research** | [Official grants page](https://kazukiikeda.studio.site/grants) | Selected grants supporting quantum information science, quantum simulation, quantum field theory, quantum mathematics, and interdisciplinary quantum research |
-| **Honors & Awards** | [Official About page](https://kazukiikeda.studio.site/about) | Honors and awards listed on my official profile |
+| **Grants and funded research** | [U.S. Department of Energy]([https://kazukiikeda.studio.site/grants](https://pamspublic.science.energy.gov/webPAMSExternal/Interface/Common/ViewPublicAbstract.aspx?rv=b339182d-37bf-421b-8c88-ec151fad87f1&rtc=24)) | DE-SC0026415: Quantum-classical hybrid simulations for nuclear physics |
+| **Grants and funded research** | [Research Corporation for Science Advancement]([https://kazukiikeda.studio.site/grants](https://pamspublic.science.energy.gov/webPAMSExternal/Interface/Common/ViewPublicAbstract.aspx?rv=b339182d-37bf-421b-8c88-ec151fad87f1&rtc=24)) | SA-QMI-2025-090: Quantum Entanglement of Skyrmion-Antiskyrmion Pairs |
+| **Honors & Awards** | [Research Corporation for Science Advancement]([https://kazukiikeda.studio.site/about](https://rescorp.org/2026/01/7-teams-win-funding-in-1st-year-of-scialog-quantum-matter-and-information/)) | 2025 Scialog Collaborative Innovation Award |
+| **Honors & Awards** | [Research Corporation for Science Advancement]([https://kazukiikeda.studio.site/about](https://rescorp.org/scialog/quantum-matter-and-information/)) | Scialog Fellow: Quantum Matter and Information |
 | **Featured Article** | [Journal of Mathematical Physics](https://doi.org/10.1063/1.4998635) | **Hofstadter’s butterfly and Langlands duality**, Journal of Mathematical Physics **59**, 061704 (2018), selected as a **Featured Article** |
 
 ---
