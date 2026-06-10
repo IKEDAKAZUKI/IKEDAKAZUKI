@@ -11,6 +11,7 @@
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Kazuki%20Ikeda-4285F4?style=flat-square)](https://scholar.google.com/citations?hl=en&user=MbHcmsEAAAAJ)
 [![SlideShare](https://img.shields.io/badge/SlideShare-Kazuki%20Ikeda-0077B5?style=flat-square)](https://www.slideshare.net/kazukiikeda4/slideshows)
 [![Media Highlights](https://img.shields.io/badge/Media-Highlights-FF6F00?style=flat-square)](#media-highlights)
+[![Honors & Grants](https://img.shields.io/badge/Honors%20%26%20Grants-Selected-6A1B9A?style=flat-square)](#honors-awards-and-grants)
 <br>
 
 **Assistant Professor · University of Massachusetts Boston**  
@@ -26,7 +27,7 @@ I am a quantum theorist working at the interface of **quantum information scienc
 
 My research develops theoretical frameworks and computational tools for understanding quantum systems through the lenses of geometry, topology, entanglement, real-time dynamics, quantum algorithms, and quantum annealing. I also build open-source research code and lecture notebooks for quantum simulation, Qiskit, lattice gauge theory, quantum optimization, and quantum information science.
 
-Selected media highlights, outreach articles, and public-facing research features are collected below.
+Selected media highlights, honors, awards, grants, and public-facing research features are collected below.
 
 Official website: **[kazukiikeda.studio.site](https://kazukiikeda.studio.site/)**
 
@@ -80,9 +81,15 @@ DOI: [10.1103/PhysRevApplied.20.024051](https://doi.org/10.1103/PhysRevApplied.2
 Code: [Quantum-Energy-Teleportation](https://github.com/IKEDAKAZUKI/Quantum-Energy-Teleportation)
 
 ### Geometric Langlands and Quantum Information
+
+**Hofstadter’s butterfly and Langlands duality**  
+*K. Ikeda*, Journal of Mathematical Physics **59**, 061704 (2018)  
+DOI: [10.1063/1.4998635](https://doi.org/10.1063/1.4998635)  
+Recognition: **Journal of Mathematical Physics Featured Article** · AIP Scilight companion coverage
+
 **Quantum entanglement, stratified spaces, and topological matter: towards entanglement-sensitive Langlands data**  
 *K. Ikeda and S. Rayan*, Reports on Progress in Physics **89**, 067601 (2026)  
-DOI: [10.1088/1361-6633/ae73b6](https://iopscience.iop.org/article/10.1088/1361-6633/ae73b6/meta) 
+DOI: [10.1088/1361-6633/ae73b6](https://iopscience.iop.org/article/10.1088/1361-6633/ae73b6/meta)
 
 ### Real-time quantum simulation and Schwinger model
 
@@ -140,6 +147,18 @@ Selected public-facing articles, institutional highlights, and science-media cov
 
 ---
 
+## Honors, awards, and grants
+
+Selected recognition and funding information. Grant amounts are intentionally omitted here.
+
+| Category | Link | Description |
+|---|---|---|
+| **Grants and funded research** | [Official grants page](https://kazukiikeda.studio.site/grants) | Selected grants supporting quantum information science, quantum simulation, quantum field theory, quantum mathematics, and interdisciplinary quantum research |
+| **Honors & Awards** | [Official About page](https://kazukiikeda.studio.site/about) | Honors and awards listed on my official profile |
+| **Featured Article** | [Journal of Mathematical Physics](https://doi.org/10.1063/1.4998635) | **Hofstadter’s butterfly and Langlands duality**, Journal of Mathematical Physics **59**, 061704 (2018), selected as a **Featured Article** |
+
+---
+
 ## Open-source focus
 
 I use GitHub to share reproducible research code, lecture notebooks, and computational tools for:
@@ -153,7 +172,8 @@ I use GitHub to share reproducible research code, lecture notebooks, and computa
 - quantum algorithms for physics,
 - educational material for students entering quantum science,
 - presentation slides and visual lecture materials on [SlideShare](https://www.slideshare.net/kazukiikeda4/slideshows),
-- media highlights and public-facing research communication on quantum science.
+- media highlights and public-facing research communication on quantum science,
+- grant-supported research, honors, awards, and featured publications in quantum science.
 
 ---
 
@@ -171,6 +191,8 @@ I use GitHub to share reproducible research code, lecture notebooks, and computa
 ## Connect
 
 - Official website: [kazukiikeda.studio.site](https://kazukiikeda.studio.site/)
+- Grants: [kazukiikeda.studio.site/grants](https://kazukiikeda.studio.site/grants)
+- Honors & Awards: [kazukiikeda.studio.site/about](https://kazukiikeda.studio.site/about)
 - GitHub: [github.com/IKEDAKAZUKI](https://github.com/IKEDAKAZUKI)
 - LinkedIn: [Kazuki Ikeda](https://www.linkedin.com/in/kazuki-ikeda-7988531a0/)
 - arXiv author search: [Kazuki Ikeda](https://arxiv.org/search/?query=Kazuki+Ikeda&searchtype=author)
@@ -198,7 +220,10 @@ Langlands program in physics, geometric Langlands, Scientific American, AIP Scil
 quantum entanglement among quarks, DOE Office of Science, Brookhaven National Laboratory,
 BNL News, jet production quantum simulation, vacuum modification, Quanta Magazine, WIRED, NIKKEI,
 quantum energy teleportation media coverage, quantum vacuum energy, energy extraction from vacuum,
-SlideShare, Kazuki Ikeda SlideShare, quantum physics slides, quantum computation slides,
-quantum information science lectures, quantum simulation lecture slides, University of Saskatchewan,
-quanTA, University of Massachusetts Boston, UMass Boston, Stony Brook University.
+research grants, quantum science grants, honors and awards, academic awards, featured article,
+Journal of Mathematical Physics, AIP Publishing, Hofstadter's butterfly and Langlands duality,
+grant-supported quantum research, funding, scientific recognition, SlideShare, Kazuki Ikeda SlideShare,
+quantum physics slides, quantum computation slides, quantum information science lectures,
+quantum simulation lecture slides, University of Saskatchewan, quanTA, University of Massachusetts Boston,
+UMass Boston, Stony Brook University.
 -->
