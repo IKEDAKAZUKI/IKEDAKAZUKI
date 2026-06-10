@@ -40,6 +40,7 @@ Official website: **[kazukiikeda.studio.site](https://kazukiikeda.studio.site/)*
 | **Quantum annealing and optimization** | D-Wave, nurse scheduling problem, QUBO, Ising models, reverse annealing, combinatorial optimization |
 | **Quantum simulation** | lattice gauge theory, nuclear theory, particle theory, Schwinger model, real-time dynamics, quench dynamics, adiabatic state preparation |
 | **Quantum field theory** | Chern-Simons fluctuations, hadronic correlators, Green’s functions, Hadamard tests |
+| **Quantum cryptography and blockchain** | qBitcoin, quantum cryptography, quantum key distribution, quantum digital signatures, post-quantum blockchain, Bitcoin security |
 | **Quantum energy teleportation** | superconducting quantum hardware, LOCC, energy extraction, error mitigation |
 | **Quantum Math** | entanglement geometry, algebraic geometry, geometric Langlands, Severi-Brauer schemes, Azumaya algebras, entangling holonomy |
 | **Condensed matter and topology** | topological quartets, BHZ model, SSH model, BBH model, holonomy diagnostics |
@@ -126,6 +127,7 @@ Selected public-facing articles, institutional highlights, and science-media cov
 
 | Theme | Outlet | Highlight |
 |---|---|---|
+| **Quantum cryptography** | [IEEE Spectrum](https://spectrum.ieee.org/qbitcoin-making-bitcoin-quantumcomputer-proof) | qBitcoin, quantum cryptography, quantum key distribution, and quantum-computer-proof Bitcoin security |
 | **Langlands program in physics** | [Scientific American](https://www.scientificamerican.com/article/the-evolving-quest-for-a-grand-unified-theory-of-mathematics/) | The evolving quest for a grand unified theory of mathematics; Langlands program, geometric Langlands, condensed-matter physics, and quantum computation |
 | **Langlands program in physics** | [AIP Scilight](https://pubs.aip.org/aip/sci/article/2018/26/260001/358794/Hofstadter-s-butterfly-confirms-a-new-tie-between) | Hofstadter’s butterfly and a new tie between condensed matter physics, number theory, and the Langlands program |
 | **Quantum simulation** | [DOE Office of Science](https://www.energy.gov/science/np/articles/revealed-quantum-entanglement-among-quarks) | Revealed: quantum entanglement among quarks; quantum simulations of jet production and vacuum modification |
@@ -190,8 +192,10 @@ quantum energy teleportation, IBM Quantum, Qiskit, entanglement geometry, Severi
 Azumaya algebras, condensed matter physics, topological quartets, Hofstadter butterfly, AdS3 black holes,
 BTZ black holes, quantum games, quantum economics, quantum annealing, D-Wave, D-Wave 2000Q,
 nurse scheduling problem, QUBO, Ising model, reverse annealing, combinatorial optimization,
-healthcare scheduling, Langlands program in physics, geometric Langlands, Scientific American,
-AIP Scilight, quantum entanglement among quarks, DOE Office of Science, Brookhaven National Laboratory,
+healthcare scheduling, quantum cryptography, qBitcoin, quantum Bitcoin, quantum-computer-proof Bitcoin,
+post-quantum blockchain, Bitcoin quantum security, quantum key distribution, BB84, quantum digital signature,
+Langlands program in physics, geometric Langlands, Scientific American, AIP Scilight,
+quantum entanglement among quarks, DOE Office of Science, Brookhaven National Laboratory,
 BNL News, jet production quantum simulation, vacuum modification, Quanta Magazine, WIRED, NIKKEI,
 quantum energy teleportation media coverage, quantum vacuum energy, energy extraction from vacuum,
 SlideShare, Kazuki Ikeda SlideShare, quantum physics slides, quantum computation slides,
