@@ -33,12 +33,12 @@ Official website: **[kazukiikeda.studio.site](https://kazukiikeda.studio.site/)*
 | Area | Keywords |
 |---|---|
 | **Quantum information science** | quantum computation, quantum circuits, Qiskit, IBM Quantum, quantum teleportation |
-| **Quantum simulation** | lattice gauge theory, Schwinger model, real-time dynamics, quench dynamics, adiabatic state preparation |
+| **Quantum simulation** | lattice gauge theory, nuclear theory, particle theory, Schwinger model, real-time dynamics, quench dynamics, adiabatic state preparation |
 | **Quantum field theory** | Chern-Simons fluctuations, hadronic correlators, Green’s functions, Hadamard tests |
 | **Quantum energy teleportation** | superconducting quantum hardware, LOCC, energy extraction, error mitigation |
 | **Quantum Math** | entanglement geometry, algebraic geometry, geometric Langlands, Severi-Brauer schemes, Azumaya algebras, entangling holonomy |
 | **Condensed matter and topology** | topological quartets, BHZ model, SSH model, BBH model, holonomy diagnostics |
-| **AdS/CMT and black-hole physics** | Hofstadter butterfly, AdS<sub>3</sub> black holes, BTZ geometry, curved Harper models |
+| **AdS/CMT and black-hole physics** | curved spacetime, Hofstadter butterfly, AdS<sub>3</sub> black holes, BTZ geometry, curved Harper models |
 | **Quantum games and economics** | quantum strategies, quantum economic behavior, quantum game theory |
 
 ---
