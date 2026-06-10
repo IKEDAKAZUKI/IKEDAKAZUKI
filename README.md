@@ -55,11 +55,11 @@ Official website: **[kazukiikeda.studio.site](https://kazukiikeda.studio.site/)*
 | Repository | Description | Topics |
 |---|---|---|
 | [**Quantum Energy Teleportation**](https://github.com/IKEDAKAZUKI/Quantum-Energy-Teleportation) | Complete code for demonstrating quantum energy teleportation on IBM Quantum hardware and local simulators | QET, IBM Quantum, Qiskit, error mitigation |
-| [**Qiskit Tutorial**](https://github.com/IKEDAKAZUKI/Qiskit-Tutorial) | Fundamental and advanced Qiskit tutorials for gate operations, measurements, quantum simulation, Green’s functions, and Hadamard tests | Qiskit, quantum circuits, quantum simulation |
+| [**Qiskit Tutorial**](https://github.com/IKEDAKAZUKI/Qiskit-Tutorial) | Fundamental and advanced Qiskit tutorials for gate operations, measurements, quantum simulation, Green’s functions, and Hadamard tests, based on lectures at UMass Boston | Qiskit, quantum circuits, quantum simulation |
 | [**Quantum Simulation of Schwinger Model**](https://github.com/IKEDAKAZUKI/Quantum-simulation-of-Schwinger-model) | Executable notebook for the digital quantum simulation of the massive Schwinger model | lattice gauge theory, Schwinger model, Qiskit |
 | [**Entanglement Obstruction in Condensed Matter**](https://github.com/IKEDAKAZUKI/Entanglement-Obstruction-in-Condensed-Matter) | Numerical and Qiskit tomography workflows for loop-dependent entangling holonomies in localized topological quartets | entanglement geometry, condensed matter, holonomy |
 | [**Hofstadter Butterfly in AdS<sub>3</sub>**](https://github.com/IKEDAKAZUKI/Hofstadter-butterfly-in-AdS3) | Reproducibility code for the BTZ-derived curved Harper model and Hofstadter spectra in AdS<sub>3</sub> black-hole geometry | AdS/CMT, BTZ black holes, Hofstadter butterfly |
-| [**QIS Lectures**](https://github.com/IKEDAKAZUKI/QIS-Lectures) | Lecture notebooks for quantum information science, linear algebra, quantum gates, measurements, and Bell states | teaching, quantum information, Qiskit |
+| [**QIS Lectures**](https://github.com/IKEDAKAZUKI/QIS-Lectures) | Lecture notebooks for quantum information science, linear algebra, quantum gates, measurements, and Bell states, based on lectures at UMass Boston | teaching, quantum information, Qiskit |
 | [**D-Wave Nurse Scheduling Demo**](https://github.com/dwave-examples/nurse-scheduling) | Official D-Wave example demonstrating the nurse-scheduling QUBO model developed by Ikeda, Nakamura, and Humble | D-Wave, quantum annealing, QUBO, healthcare optimization |
 
 ---
