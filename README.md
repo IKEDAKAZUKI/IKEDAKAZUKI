@@ -119,12 +119,17 @@ DOI: [10.1007/JHEP02(2025)118](https://doi.org/10.1007/JHEP02%282025%29118)
 *K. Ikeda and Y. Oz*, arXiv: [2604.11596](https://arxiv.org/abs/2604.11596)  
 Code: [Entanglement-Obstruction-in-Condensed-Matter](https://github.com/IKEDAKAZUKI/Entanglement-Obstruction-in-Condensed-Matter)
 
-### AdS/CMT and curved Hofstadter systems
+### Quantum physics in curved spacetimes
 
 **Hofstadter’s butterfly in AdS<sub>3</sub> black holes**  
 *K. Ikeda and Y. Oz*, Journal of High Energy Physics **2026**, 038 (2026)  
 DOI: [10.1007/JHEP06(2026)038](https://doi.org/10.1007/JHEP06%282026%29038) · arXiv: [2604.14335](https://arxiv.org/abs/2604.14335)  
 Code: [Hofstadter-butterfly-in-AdS3](https://github.com/IKEDAKAZUKI/Hofstadter-butterfly-in-AdS3)
+
+**Quantum Information Dynamics of QED<sub>2</sub> in Expanding de Sitter Universe**  
+*K. Ikeda and Y. Oz*, arXiv:2604.02777  
+DOI: arXiv: [2604.02777](https://arxiv.org/abs/2604.02777)  
+Code: [Hofstadter-butterfly-in-AdS3](https://github.com/IKEDAKAZUKI/Quantum-Information-Dynamics-in-de-Sitter-Space)
 
 ---
 
