@@ -129,7 +129,7 @@ Code: [Hofstadter-butterfly-in-AdS3](https://github.com/IKEDAKAZUKI/Hofstadter-b
 **Quantum Information Dynamics of QED<sub>2</sub> in Expanding de Sitter Universe**  
 *K. Ikeda and Y. Oz*, arXiv:2604.02777  
 DOI: arXiv: [2604.02777](https://arxiv.org/abs/2604.02777)  
-Code: [Hofstadter-butterfly-in-AdS3](https://github.com/IKEDAKAZUKI/Quantum-Information-Dynamics-in-de-Sitter-Space)
+Code: [Quantum Information Dynamics in de Sitter Space](https://github.com/IKEDAKAZUKI/Quantum-Information-Dynamics-in-de-Sitter-Space)
 
 ---
 
