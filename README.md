@@ -32,14 +32,10 @@ I am a quantum theorist working across **quantum information science, quantum co
 [![Paper](https://img.shields.io/badge/Paper-arXiv%3A2607.26331-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2607.26331)
 [![Interactive Explorer](https://img.shields.io/badge/Interactive-Pattern_Explorer-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/IKEDAKAZUKI/Quantum-Turing-Pattern/tree/main/interactive-display)
 [![Lean 4](https://img.shields.io/badge/Formalization-Lean_4-7B2CBF?style=for-the-badge)](https://github.com/IKEDAKAZUKI/Quantum-Turing-Pattern/tree/main/lean4%20formalization)
-
 [![Popular article](https://img.shields.io/badge/LinkedIn-Research_story-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/pulse/quantum-turing-patterns-kazuki-ikeda-373ic/)
 
 **[Read the popular article on LinkedIn: how I conceived the research, what was solved, and why it is exciting.](https://www.linkedin.com/pulse/quantum-turing-patterns-kazuki-ikeda-373ic/)**
 
-[![Labyrinth movie](https://img.shields.io/badge/Watch-Labyrinth_movie-0F766E?style=flat-square&logo=github&logoColor=white)](https://github.com/IKEDAKAZUKI/Quantum-Turing-Pattern/blob/main/interactive-display/display/display_labyrinth_pattern.mp4)
-[![Spot movie](https://img.shields.io/badge/Watch-Spot_movie-2563EB?style=flat-square&logo=github&logoColor=white)](https://github.com/IKEDAKAZUKI/Quantum-Turing-Pattern/blob/main/interactive-display/display/display_spot_pattern.mp4)
-[![Stripe movie](https://img.shields.io/badge/Watch-Stripe_movie-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/IKEDAKAZUKI/Quantum-Turing-Pattern/blob/main/interactive-display/display/display_stripe_pattern.mp4)
 
 </div>
 
