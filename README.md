@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kazuki_Ikeda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazuki-ikeda-7988531a0/)
 
 **Assistant Professor of Physics, University of Massachusetts Boston**  
-Quantum computation · quantum field theory · quantum simulation · entanglement geometry · mathematical physics
+Quantum computation · quantum field theory · quantum simulation · entanglement geometry · mathematical sciences
 
 </div>
 
