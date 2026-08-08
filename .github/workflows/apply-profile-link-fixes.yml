@@ -1,7 +1,9 @@
 name: Apply profile figure and article links
 
 on:
-  pull_request:
+  push:
+    branches:
+      - "agent/fix-fig1-and-linkedin"
     paths:
       - "README.md"
       - ".github/workflows/apply-profile-link-fixes.yml"
@@ -11,13 +13,12 @@ permissions:
 
 jobs:
   patch-profile:
-    if: github.event.pull_request.head.repo.full_name == github.repository
     runs-on: ubuntu-latest
     steps:
-      - name: Check out pull-request branch
+      - name: Check out update branch
         uses: actions/checkout@v4
         with:
-          ref: ${{ github.head_ref }}
+          ref: agent/fix-fig1-and-linkedin
           fetch-depth: 0
 
       - name: Patch profile README
@@ -80,4 +81,4 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
           git commit -m "Fix Figure 1 preview and add LinkedIn article"
-          git push origin HEAD:${{ github.head_ref }}
+          git push origin HEAD:agent/fix-fig1-and-linkedin
