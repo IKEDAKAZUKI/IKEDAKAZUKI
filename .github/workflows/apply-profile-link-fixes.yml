@@ -1,4 +1,5 @@
 name: Apply profile figure and article links
+# Second push triggers the branch-local workflow after registration.
 
 on:
   push:
