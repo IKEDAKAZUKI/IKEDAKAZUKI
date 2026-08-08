@@ -139,7 +139,7 @@ Quantum annealing, QUBO models, scheduling, reproducible code, lecture notebooks
   <img width="100%" src="https://raw.githubusercontent.com/IKEDAKAZUKI/Entangling-Topological-Invariants/main/entangling-topological-invariants/figures/fig1_zero_marginal_profile.webp" alt="Figure 1: one-label Chern responses and mixed Berry curvature">
 </a>
 <h3 align="center"><a href="https://github.com/IKEDAKAZUKI/Entangling-Topological-Invariants">Entangling Topological Invariants</a></h3>
-<p align="center">One-label Chern responses · mixed Berry curvature · <a href="https://github.com/IKEDAKAZUKI/Entangling-Topological-Invariants/blob/main/entangling-topological-invariants/figures/fig1_zero_marginal.pdf">original vector PDF</a></p>
+<p align="center">One-label Chern responses · mixed Berry curvature · <a href="https://github.com/IKEDAKAZUKI/Entangling-Topological-Invariants/blob/main/entangling-topological-invariants/figures/fig1_zero_marginal.pdf"></a></p>
 </td>
 </tr>
 </table>
