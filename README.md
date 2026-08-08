@@ -25,7 +25,6 @@ I am a quantum theorist working across **quantum information science, quantum co
 </a>
 
 <p align="center"><em>Formation of a labyrinth quantum Turing pattern. Click the animation to open the display gallery.</em></p>
-**[`Read the popular article on LinkedIn: How I conceived this research, what was solved, why exciting`](https://www.linkedin.com/pulse/quantum-turing-patterns-kazuki-ikeda-373ic/)**  
 
 <div align="center">
 
