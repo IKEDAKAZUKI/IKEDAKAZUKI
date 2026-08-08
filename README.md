@@ -103,29 +103,39 @@ Quantum annealing, QUBO models, scheduling, reproducible code, lecture notebooks
 
 ## Selected repositories
 
+<p align="center"><em>Each image comes from the corresponding research repository. Click an image to open the project.</em></p>
+
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 <a href="https://github.com/IKEDAKAZUKI/Quantum-Turing-Pattern">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=IKEDAKAZUKI&repo=Quantum-Turing-Pattern&hide_border=true" alt="Quantum Turing Pattern repository card">
+  <img width="100%" src="https://raw.githubusercontent.com/IKEDAKAZUKI/Quantum-Turing-Pattern/main/display/assets/labyrinth-animation_v2.gif" alt="Animated formation of a labyrinth quantum Turing pattern">
 </a>
+<h3 align="center"><a href="https://github.com/IKEDAKAZUKI/Quantum-Turing-Pattern">Quantum Turing Patterns</a></h3>
+<p align="center">Open-system pattern formation · interactive explorer · numerical reproduction · Lean 4</p>
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 <a href="https://github.com/IKEDAKAZUKI/Quantum-Energy-Teleportation">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=IKEDAKAZUKI&repo=Quantum-Energy-Teleportation&hide_border=true" alt="Quantum Energy Teleportation repository card">
+  <img width="100%" src="https://raw.githubusercontent.com/IKEDAKAZUKI/Quantum-Energy-Teleportation/main/QET%20slides.gif" alt="Animated overview of quantum energy teleportation">
 </a>
+<h3 align="center"><a href="https://github.com/IKEDAKAZUKI/Quantum-Energy-Teleportation">Quantum Energy Teleportation</a></h3>
+<p align="center">IBM Quantum implementation · superconducting qubits · simulation · error mitigation</p>
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 <a href="https://github.com/IKEDAKAZUKI/Quantum-Information-Dynamics-in-de-Sitter-Space">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=IKEDAKAZUKI&repo=Quantum-Information-Dynamics-in-de-Sitter-Space&hide_border=true" alt="Quantum Information Dynamics in de Sitter Space repository card">
+  <img width="100%" src="https://raw.githubusercontent.com/IKEDAKAZUKI/Quantum-Information-Dynamics-in-de-Sitter-Space/main/QED%20in%20dS/reference_figures/figure3.png" alt="Irreversibility front and operational diagnostics in de Sitter QED2">
 </a>
+<h3 align="center"><a href="https://github.com/IKEDAKAZUKI/Quantum-Information-Dynamics-in-de-Sitter-Space">Quantum Information Dynamics in de Sitter Space</a></h3>
+<p align="center">Expanding-universe QED₂ · real-time dynamics · irreversibility fronts · reproducible figures</p>
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 <a href="https://github.com/IKEDAKAZUKI/Entangling-Topological-Invariants">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=IKEDAKAZUKI&repo=Entangling-Topological-Invariants&hide_border=true" alt="Entangling Topological Invariants repository card">
+  <img width="100%" src="https://raw.githubusercontent.com/IKEDAKAZUKI/Entangling-Topological-Invariants/main/entangling-topological-invariants/assets/profile-preview.svg" alt="Mixed Chern, cross-pump, second-Chern, and tomography preview">
 </a>
+<h3 align="center"><a href="https://github.com/IKEDAKAZUKI/Entangling-Topological-Invariants">Entangling Topological Invariants</a></h3>
+<p align="center">Mixed-Chern geometry · quantized cross pumping · second Chern class · tomography</p>
 </td>
 </tr>
 </table>
