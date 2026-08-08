@@ -33,6 +33,10 @@ I am a quantum theorist working across **quantum information science, quantum co
 [![Interactive Explorer](https://img.shields.io/badge/Interactive-Pattern_Explorer-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/IKEDAKAZUKI/Quantum-Turing-Pattern/tree/main/interactive-display)
 [![Lean 4](https://img.shields.io/badge/Formalization-Lean_4-7B2CBF?style=for-the-badge)](https://github.com/IKEDAKAZUKI/Quantum-Turing-Pattern/tree/main/lean4%20formalization)
 
+[![Popular article](https://img.shields.io/badge/LinkedIn-Research_story-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/pulse/quantum-turing-patterns-kazuki-ikeda-373ic/)
+
+**[Read the popular article on LinkedIn: how I conceived the research, what was solved, and why it is exciting.](https://www.linkedin.com/pulse/quantum-turing-patterns-kazuki-ikeda-373ic/)**
+
 [![Labyrinth movie](https://img.shields.io/badge/Watch-Labyrinth_movie-0F766E?style=flat-square&logo=github&logoColor=white)](https://github.com/IKEDAKAZUKI/Quantum-Turing-Pattern/blob/main/interactive-display/display/display_labyrinth_pattern.mp4)
 [![Spot movie](https://img.shields.io/badge/Watch-Spot_movie-2563EB?style=flat-square&logo=github&logoColor=white)](https://github.com/IKEDAKAZUKI/Quantum-Turing-Pattern/blob/main/interactive-display/display/display_spot_pattern.mp4)
 [![Stripe movie](https://img.shields.io/badge/Watch-Stripe_movie-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/IKEDAKAZUKI/Quantum-Turing-Pattern/blob/main/interactive-display/display/display_stripe_pattern.mp4)
@@ -103,7 +107,7 @@ Quantum annealing, QUBO models, scheduling, reproducible code, lecture notebooks
 
 ## Selected repositories
 
-<p align="center"><em>Each image comes from the corresponding research repository. Click an image to open the project.</em></p>
+<p align="center"><em>Each image comes from the corresponding research repository. Click an image to open the project or its featured figure.</em></p>
 
 <table>
 <tr>
@@ -131,11 +135,11 @@ Quantum annealing, QUBO models, scheduling, reproducible code, lecture notebooks
 <p align="center">Expanding-universe QED₂ · real-time dynamics · irreversibility fronts · reproducible figures</p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/IKEDAKAZUKI/Entangling-Topological-Invariants">
-  <img width="100%" src="https://github.com/IKEDAKAZUKI/Entangling-Topological-Invariants/blob/main/entangling-topological-invariants/figures/fig1_zero_marginal.pdf" alt="Mixed Chern, cross-pump, second-Chern, and tomography preview">
+<a href="https://github.com/IKEDAKAZUKI/Entangling-Topological-Invariants/blob/main/entangling-topological-invariants/figures/fig1_zero_marginal.pdf">
+  <img width="100%" src="https://raw.githubusercontent.com/IKEDAKAZUKI/Entangling-Topological-Invariants/main/entangling-topological-invariants/figures/fig1_zero_marginal_profile.webp" alt="Figure 1: one-label Chern responses and mixed Berry curvature">
 </a>
 <h3 align="center"><a href="https://github.com/IKEDAKAZUKI/Entangling-Topological-Invariants">Entangling Topological Invariants</a></h3>
-<p align="center">Mixed-Chern geometry · quantized cross pumping · second Chern class · tomography</p>
+<p align="center">One-label Chern responses · mixed Berry curvature · <a href="https://github.com/IKEDAKAZUKI/Entangling-Topological-Invariants/blob/main/entangling-topological-invariants/figures/fig1_zero_marginal.pdf">original vector PDF</a></p>
 </td>
 </tr>
 </table>
