@@ -132,7 +132,7 @@ Quantum annealing, QUBO models, scheduling, reproducible code, lecture notebooks
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/IKEDAKAZUKI/Entangling-Topological-Invariants">
-  <img width="100%" src="https://raw.githubusercontent.com/IKEDAKAZUKI/Entangling-Topological-Invariants/main/entangling-topological-invariants/assets/profile-preview.svg" alt="Mixed Chern, cross-pump, second-Chern, and tomography preview">
+  <img width="100%" src="https://github.com/IKEDAKAZUKI/Entangling-Topological-Invariants/blob/main/entangling-topological-invariants/figures/fig1_zero_marginal.pdf" alt="Mixed Chern, cross-pump, second-Chern, and tomography preview">
 </a>
 <h3 align="center"><a href="https://github.com/IKEDAKAZUKI/Entangling-Topological-Invariants">Entangling Topological Invariants</a></h3>
 <p align="center">Mixed-Chern geometry · quantized cross pumping · second Chern class · tomography</p>
