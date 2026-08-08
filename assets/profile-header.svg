@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Kazuki Ikeda — Quantum Theorist</title>
+  <desc id="desc">A dark geometric banner with entanglement links, a quantum waveform, and an emerging lattice pattern.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="0.52" stop-color="#12264a"/>
+      <stop offset="1" stop-color="#123d55"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#67e8f9" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#67e8f9" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#a78bfa" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#a78bfa"/>
+      <stop offset="0.5" stop-color="#67e8f9"/>
+      <stop offset="1" stop-color="#34d399"/>
+    </linearGradient>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="10"/>
+    </filter>
+    <clipPath id="clip">
+      <rect x="0" y="0" width="1200" height="300" rx="28"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <circle cx="990" cy="54" r="250" fill="url(#glowA)"/>
+    <circle cx="720" cy="285" r="250" fill="url(#glowB)"/>
+
+    <g opacity="0.11" stroke="#dbeafe" stroke-width="1">
+      <path d="M0 45H1200M0 90H1200M0 135H1200M0 180H1200M0 225H1200M0 270H1200"/>
+      <path d="M60 0V300M120 0V300M180 0V300M240 0V300M300 0V300M360 0V300M420 0V300M480 0V300M540 0V300M600 0V300M660 0V300M720 0V300M780 0V300M840 0V300M900 0V300M960 0V300M1020 0V300M1080 0V300M1140 0V300"/>
+    </g>
+
+    <g transform="translate(74 55)">
+      <text x="0" y="24" fill="#93c5fd" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="4">QUANTUM THEORIST · UMASS BOSTON</text>
+      <text x="0" y="91" fill="#f8fafc" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="1">KAZUKI IKEDA</text>
+      <text x="2" y="128" fill="#cbd5e1" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="22" font-weight="400">Quantum information · quantum mathematics · field theory</text>
+      <line x1="2" y1="154" x2="455" y2="154" stroke="url(#wave)" stroke-width="3" stroke-linecap="round"/>
+      <text x="2" y="188" fill="#94a3b8" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="2">ENTANGLEMENT  /  GEOMETRY  /  DYNAMICS  /  COMPUTATION</text>
+    </g>
+
+    <g transform="translate(680 23)">
+      <ellipse cx="210" cy="126" rx="178" ry="94" fill="none" stroke="#7dd3fc" stroke-opacity="0.42" stroke-width="1.5"/>
+      <ellipse cx="210" cy="126" rx="108" ry="140" fill="none" stroke="#c4b5fd" stroke-opacity="0.35" stroke-width="1.5" transform="rotate(47 210 126)"/>
+      <path d="M40 150 C92 69 150 196 211 114 C268 38 330 177 395 91" fill="none" stroke="url(#wave)" stroke-width="4" stroke-linecap="round"/>
+      <path d="M59 85 C130 19 170 231 238 169 C300 113 335 55 389 145" fill="none" stroke="#f8fafc" stroke-opacity="0.34" stroke-width="1.8"/>
+
+      <g fill="#e0f2fe" stroke="#0f172a" stroke-width="2">
+        <circle cx="40" cy="150" r="7"/>
+        <circle cx="98" cy="93" r="7"/>
+        <circle cx="154" cy="162" r="7"/>
+        <circle cx="211" cy="114" r="9" fill="#67e8f9"/>
+        <circle cx="268" cy="67" r="7" fill="#c4b5fd"/>
+        <circle cx="330" cy="134" r="7" fill="#86efac"/>
+        <circle cx="395" cy="91" r="7"/>
+      </g>
+
+      <g transform="translate(282 164)" fill="#bae6fd">
+        <circle cx="0" cy="0" r="3" opacity="0.30"/><circle cx="18" cy="0" r="3" opacity="0.48"/><circle cx="36" cy="0" r="3" opacity="0.72"/><circle cx="54" cy="0" r="3" opacity="0.42"/><circle cx="72" cy="0" r="3" opacity="0.20"/>
+        <circle cx="0" cy="18" r="3" opacity="0.58"/><circle cx="18" cy="18" r="3" opacity="0.86"/><circle cx="36" cy="18" r="3" opacity="0.34"/><circle cx="54" cy="18" r="3" opacity="0.78"/><circle cx="72" cy="18" r="3" opacity="0.46"/>
+        <circle cx="0" cy="36" r="3" opacity="0.82"/><circle cx="18" cy="36" r="3" opacity="0.38"/><circle cx="36" cy="36" r="3" opacity="0.92"/><circle cx="54" cy="36" r="3" opacity="0.32"/><circle cx="72" cy="36" r="3" opacity="0.84"/>
+        <circle cx="0" cy="54" r="3" opacity="0.42"/><circle cx="18" cy="54" r="3" opacity="0.76"/><circle cx="36" cy="54" r="3" opacity="0.36"/><circle cx="54" cy="54" r="3" opacity="0.88"/><circle cx="72" cy="54" r="3" opacity="0.52"/>
+      </g>
+    </g>
+
+    <rect x="0.75" y="0.75" width="1198.5" height="298.5" rx="27.25" fill="none" stroke="#94a3b8" stroke-opacity="0.35" stroke-width="1.5"/>
+  </g>
+</svg>
