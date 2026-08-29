@@ -228,6 +228,7 @@ Code and formalization: [Quantum-Turing-Pattern](https://github.com/IKEDAKAZUKI/
 | Quantum cryptography | [IEEE Spectrum](https://spectrum.ieee.org/qbitcoin-making-bitcoin-quantumcomputer-proof) | qBitcoin and quantum-computer-resistant Bitcoin security. |
 | Langlands program | [Scientific American](https://www.scientificamerican.com/article/the-evolving-quest-for-a-grand-unified-theory-of-mathematics/) | Connections among the Langlands program, physics, and quantum computation. |
 | Langlands program | [AIP Scilight](https://pubs.aip.org/aip/sci/article/2018/26/260001/358794/Hofstadter-s-butterfly-confirms-a-new-tie-between) | Hofstadter's butterfly, number theory, and the Langlands program. |
+| Langlands program | [Physics World](https://physicsworld.com/a/when-topology-meets-entanglement/) | Bridging entanglement, topological matter, and geometric Langlands. |
 | Quantum simulation | [DOE Office of Science](https://www.energy.gov/science/np/articles/revealed-quantum-entanglement-among-quarks) | Quantum entanglement among quarks and real-time simulation. |
 | Quantum simulation | [Brookhaven National Laboratory](https://www.bnl.gov/newsroom/news.php?a=221731) | Simulations of entangled quarks in high-energy collisions. |
 | Quantum energy teleportation | [Quanta Magazine](https://www.quantamagazine.org/physicists-use-quantum-mechanics-to-pull-energy-out-of-nothing-20230222/) | Experimental quantum energy teleportation. |
